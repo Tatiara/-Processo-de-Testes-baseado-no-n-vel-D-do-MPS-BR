@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nrgj4IeOF8sO87d-rCjgjw" name="metricas,_gm2bIHbLEeitg_eeCHn3zA" guid="-nrgj4IeOF8sO87d-rCjgjw" changeDate="2018-06-26T18:01:07.587-0300">
+  <mainDescription>&amp;nbsp;Para ajudar a determinar se um critério foi ou não atendido, algumas métricas podem ser definidas.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

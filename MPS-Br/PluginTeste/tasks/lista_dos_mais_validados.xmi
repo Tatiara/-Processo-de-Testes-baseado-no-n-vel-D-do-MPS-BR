@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-N5nv9O5xhXSdPfEPU1L2KA" name="lista_dos_mais_validados,_UUR4sHY7EeigrY4ezy1uYw" guid="-N5nv9O5xhXSdPfEPU1L2KA">
+  <mainDescription>É possível, também, definir, em nível organizacional, uma lista de produtos ou componentes de produto que normalmente são&#xD;
+validados, de forma que os projetos só precisem adaptar essa lista às suas necessidades.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

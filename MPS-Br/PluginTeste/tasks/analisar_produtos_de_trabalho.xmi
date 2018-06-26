@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yjEuGgTgb5iorNYo2FGAvQ" name="analisar_produtos_de_trabalho,_tpe3gHZpEeitg_eeCHn3zA" guid="-yjEuGgTgb5iorNYo2FGAvQ" changeDate="2018-06-26T17:57:56.396-0300">
+  <mainDescription>Para atender a este resultado esperado deve-se analisar os produtos de trabalho que serão produzidos ao longo do projeto</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

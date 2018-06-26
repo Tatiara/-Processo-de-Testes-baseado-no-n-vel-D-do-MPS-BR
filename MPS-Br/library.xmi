@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_1yU_0XYaEeigrY4ezy1uYw" guid="_1yU_0XYaEeigrY4ezy1uYw">
+    <subManagers xmi:id="_8Uvj8XYaEeigrY4ezy1uYw" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_8Uvj8XYaEeigrY4ezy1uYw"/>
+    <resourceDescriptors xmi:id="_1yU_0nYaEeigrY4ezy1uYw" id="_1yU_0HYaEeigrY4ezy1uYw" uri=""/>
+    <resourceDescriptors xmi:id="_8Uvj8nYaEeigrY4ezy1uYw" id="_8UJuEHYaEeigrY4ezy1uYw" uri="PluginTeste/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_1yU_0HYaEeigrY4ezy1uYw" name="MPS-Br" guid="_1yU_0HYaEeigrY4ezy1uYw">
+    <methodElementProperty xmi:id="_10tlcHYaEeigrY4ezy1uYw" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_8UJuEHYaEeigrY4ezy1uYw" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_8UJuEHYaEeigrY4ezy1uYw"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

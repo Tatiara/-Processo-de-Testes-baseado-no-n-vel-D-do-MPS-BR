@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZHL34ggzCG_0CYwVtbk_bw" name="atividades_de_verifacao,_A83xIHbVEeitg_eeCHn3zA" guid="-ZHL34ggzCG_0CYwVtbk_bw" changeDate="2018-06-26T18:03:59.039-0300">
+  <mainDescription>Este resultado esperado visa garantir que as atividades de verificação são executadas conforme planejado</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I0KCkpi1eWvlOf48YsC10A" name="revisao_por_pares_e_testes,_uDwXsHZ0Eeitg_eeCHn3zA" guid="-I0KCkpi1eWvlOf48YsC10A" changeDate="2018-06-26T18:03:01.298-0300">
+  <mainDescription>&amp;nbsp;Os métodos que serão usados para verificação de cada produto de trabalho selecionado para verificação devem ser&#xD;
+identificados, garantindo, em cada projeto, a realização de algum tipo de revisão por pares e testes.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Teh6FPa7A4I-n_lHhP9wCw" name="analise_dos_resultados,_79X54HiYEeiJ7dt36irmsg" guid="-Teh6FPa7A4I-n_lHhP9wCw" changeDate="2018-06-26T18:00:34.174-0300">
+  <mainDescription>análise de laudos de avaliação e relatórios de testes que contenham informações sobre os resultados obtidos após a&#xD;
+realização das atividades de verificação.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

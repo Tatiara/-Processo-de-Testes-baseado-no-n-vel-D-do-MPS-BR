@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:MethodConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="_LMtoUHYcEeigrY4ezy1uYw" name="ConfigTeste" guid="_LMtoUHYcEeigrY4ezy1uYw">
+  <methodElementProperty xmi:id="_HrDGUHi3EeiJ7dt36irmsg" name="me_edited" value="true"/>
+  <methodPluginSelection href="uma://_8UJuEHYaEeigrY4ezy1uYw#_8UJuEHYaEeigrY4ezy1uYw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_8UJuHnYaEeigrY4ezy1uYw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_RomngHY5EeigrY4ezy1uYw#_RomngHY5EeigrY4ezy1uYw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_H1MNsHYuEeigrY4ezy1uYw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_C_PwoHZpEeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_pFKQYHZsEeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_o4C9QHZzEeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_4_NGsHZ2Eeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_zOuz4HbZEeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_v_j1EHbMEeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_hOi-MHbUEeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_6gmw8HbXEeitg_eeCHn3zA"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_4kVnoHbOEeitg_eeCHn3zA"/>
+  <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_8UJuEHYaEeigrY4ezy1uYw#_8a4PEHi1EeiJ7dt36irmsg"/>
+</org.eclipse.epf.uma:MethodConfiguration>

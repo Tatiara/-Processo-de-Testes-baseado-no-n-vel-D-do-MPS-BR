@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tFMzDWd92k0xjT93T0k2lw" name="denfinir_criterios,_m2JrcHbKEeitg_eeCHn3zA" guid="-tFMzDWd92k0xjT93T0k2lw" changeDate="2018-06-26T18:01:13.413-0300">
+  <mainDescription>Devem ser definidos os critérios para a validação de cada produto ou componente do produtoAlguns exemplos de critérios para&#xD;
+validação dos requisitos são: adequação funcional e usabilidade. Para validação de um software alguns critérios de&#xD;
+validação poderiam ser: tempo de resposta, tolerância a falhas, recuperabilidade, uso de memória, confiabilidade e&#xD;
+portabilidade.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

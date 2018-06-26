@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-odPgHbhg9U8erfBACErrsw" name="denfinir_criterios,_ptb6QHbNEeitg_eeCHn3zA" guid="-odPgHbhg9U8erfBACErrsw" changeDate="2018-06-26T18:01:52.629-0300">
+  <mainDescription>O alcance deste resultado esperado implica na definição dos critérios e procedimentos que serão utilizados para a&#xD;
+verificação de cada produto de trabalho e na preparação do ambiente para verificação, disponibilizando ferramentas,&#xD;
+recursos de hardware, infra-estrutura de rede e outros recursos necessários à execução das atividades planejadas.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BZfmZxaBqlHJS_G_au4isA" name="cronograma_de_atividades,_cZWvUHZwEeitg_eeCHn3zA" guid="-BZfmZxaBqlHJS_G_au4isA" changeDate="2018-06-26T18:02:27.040-0300">
+  <mainDescription>Deve ser definido ainda um cronograma para as atividades de validação e os recursos necessários à execução das atividades&#xD;
+devem ser planejados.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

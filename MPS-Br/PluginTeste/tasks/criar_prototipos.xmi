@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mV7MCiqnvvntMOFWUn8eOA" name="criar_prototipos,_Jos3QHZxEeitg_eeCHn3zA" guid="-mV7MCiqnvvntMOFWUn8eOA" changeDate="2018-06-26T18:02:20.552-0300">
+  <mainDescription>Prototipação é um dos métodos para a validação de requisitos.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

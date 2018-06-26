@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3JQIPbJ-75kqV6DahJjTqA" name="criterios_de_selecao,_4sfFAHY0EeigrY4ezy1uYw" guid="-3JQIPbJ-75kqV6DahJjTqA">
+  <mainDescription>Esta identificação pode ocorrer nos estágios iniciais do projeto, com base nos artefatos que serão produzidos pelo&#xD;
+processo.Uma boa prática é definir critérios para seleção dos produtos ou componentes de produto que serão validados e&#xD;
+selecioná-los segundo estes critérios..Pode-se, por exemplo, selecionar os produtos mais relevantes com base nas&#xD;
+necessidades do cliente ou levando-se em consideração os riscos associados aos produtos.</mainDescription>
+  <sections xmi:id="_JN4LMHZrEeitg_eeCHn3zA" name="passo 1" guid="_JN4LMHZrEeitg_eeCHn3zA">
+    <sectionDescription>passo1</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9HVrO2-OwZKtmtb2AVKzpQ" name="disponibilizacao_ao_cliente,_79X54XiYEeiJ7dt36irmsg" guid="-9HVrO2-OwZKtmtb2AVKzpQ" changeDate="2018-06-26T18:00:40.060-0300">
+  <mainDescription>&amp;nbsp;disponibilizar resultados para o cliente, ou seu representante na execução das atividades, e outras partes&#xD;
+interessadas.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

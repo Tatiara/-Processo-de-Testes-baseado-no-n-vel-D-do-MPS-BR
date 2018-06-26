@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_8Uvj8XYaEeigrY4ezy1uYw" guid="_8Uvj8XYaEeigrY4ezy1uYw">
+    <subManagers xmi:id="_RpmtEHY5EeigrY4ezy1uYw" href="uma://_RomngHY5EeigrY4ezy1uYw#_RpmtEHY5EeigrY4ezy1uYw"/>
+    <resourceDescriptors xmi:id="_RpkQ0HY5EeigrY4ezy1uYw" id="_RomngHY5EeigrY4ezy1uYw" uri="deliveryprocesses/ciclo/model.xmi"/>
+    <resourceDescriptors xmi:id="_L0x8AHZrEeitg_eeCHn3zA" id="-3JQIPbJ-75kqV6DahJjTqA" uri="tasks/criterios_de_selecao.xmi"/>
+    <resourceDescriptors xmi:id="_jXih0XmDEei9L5hnL9Zfog" id="-N5nv9O5xhXSdPfEPU1L2KA" uri="tasks/lista_dos_mais_validados.xmi"/>
+    <resourceDescriptors xmi:id="_k1NZsXmDEei9L5hnL9Zfog" id="-BdtvcEPb4Yva0lm8W3bTKg" uri="tasks/selecionar_segundo_os_criterios.xmi"/>
+    <resourceDescriptors xmi:id="_oXTncXmDEei9L5hnL9Zfog" id="-yjEuGgTgb5iorNYo2FGAvQ" uri="tasks/analisar_produtos_de_trabalho.xmi"/>
+    <resourceDescriptors xmi:id="_775BYXmDEei9L5hnL9Zfog" id="-vmJRu14KOzvq1jQsfU11xw" uri="tasks/analise_dos_resultados.xmi"/>
+    <resourceDescriptors xmi:id="_78CLUHmDEei9L5hnL9Zfog" id="-rMF8DvBY_hQRKZka9tFxMQ" uri="tasks/disponibilizacao_ao_cliente_.xmi"/>
+    <resourceDescriptors xmi:id="__SkpUHmDEei9L5hnL9Zfog" id="-Teh6FPa7A4I-n_lHhP9wCw" uri="tasks/analise_dos_resultados%202.xmi"/>
+    <resourceDescriptors xmi:id="__SkpUXmDEei9L5hnL9Zfog" id="-9HVrO2-OwZKtmtb2AVKzpQ" uri="tasks/disponibilizacao_ao_cliente.xmi"/>
+    <resourceDescriptors xmi:id="_D24iAHmEEei9L5hnL9Zfog" id="-tFMzDWd92k0xjT93T0k2lw" uri="tasks/denfinir_criterios.xmi"/>
+    <resourceDescriptors xmi:id="_D24iAXmEEei9L5hnL9Zfog" id="-nrgj4IeOF8sO87d-rCjgjw" uri="tasks/metricas.xmi"/>
+    <resourceDescriptors xmi:id="_K6fusHmEEei9L5hnL9Zfog" id="-odPgHbhg9U8erfBACErrsw" uri="tasks/denfinir_criterios%202.xmi"/>
+    <resourceDescriptors xmi:id="_K6fusXmEEei9L5hnL9Zfog" id="-cGSDdLR9WpW7r5S3eiWy-A" uri="tasks/metricas%202.xmi"/>
+    <resourceDescriptors xmi:id="_PzNKEHmEEei9L5hnL9Zfog" id="-BZfmZxaBqlHJS_G_au4isA" uri="tasks/cronograma_de_atividades.xmi"/>
+    <resourceDescriptors xmi:id="_PzVF4HmEEei9L5hnL9Zfog" id="-mV7MCiqnvvntMOFWUn8eOA" uri="tasks/criar_prototipos.xmi"/>
+    <resourceDescriptors xmi:id="_T7As8XmEEei9L5hnL9Zfog" id="-WVUYmmyG30eEMcvT97cvlQ" uri="tasks/definir_estrategia_de_verificacao.xmi"/>
+    <resourceDescriptors xmi:id="_T7Kd8HmEEei9L5hnL9Zfog" id="-I0KCkpi1eWvlOf48YsC10A" uri="tasks/revisao_por_pares_e_testes.xmi"/>
+    <resourceDescriptors xmi:id="_djN9UXmEEei9L5hnL9Zfog" id="-ZHL34ggzCG_0CYwVtbk_bw" uri="tasks/atividades_de_verifacao.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_8UJuEHYaEeigrY4ezy1uYw" name="PluginTeste" guid="_8UJuEHYaEeigrY4ezy1uYw">
+    <methodElementProperty xmi:id="_8Uvj83YaEeigrY4ezy1uYw" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuEXYaEeigrY4ezy1uYw" name="Content" guid="_8UJuEXYaEeigrY4ezy1uYw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuEnYaEeigrY4ezy1uYw" name="Categories" guid="_8UJuEnYaEeigrY4ezy1uYw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuE3YaEeigrY4ezy1uYw" name="Domains" guid="_8UJuE3YaEeigrY4ezy1uYw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuFHYaEeigrY4ezy1uYw" name="Disciplines" guid="_8UJuFHYaEeigrY4ezy1uYw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuFXYaEeigrY4ezy1uYw" name="RoleSets" guid="_8UJuFXYaEeigrY4ezy1uYw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuFnYaEeigrY4ezy1uYw" name="WP Types" guid="_8UJuFnYaEeigrY4ezy1uYw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuF3YaEeigrY4ezy1uYw" name="Tools" guid="_8UJuF3YaEeigrY4ezy1uYw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuGHYaEeigrY4ezy1uYw" name="StandardCategories" guid="_8UJuGHYaEeigrY4ezy1uYw"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuGXYaEeigrY4ezy1uYw" name="CustomCategories" guid="_8UJuGXYaEeigrY4ezy1uYw">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuGnYaEeigrY4ezy1uYw" name="Hidden" guid="_8UJuGnYaEeigrY4ezy1uYw">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8UJuG3YaEeigrY4ezy1uYw" name="Custom Categories" guid="_8UJuG3YaEeigrY4ezy1uYw" categorizedElements="_8a4PEHi1EeiJ7dt36irmsg"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8a4PEHi1EeiJ7dt36irmsg" name="Processo de Testes baseado no nível D do MPS-BR" guid="_8a4PEHi1EeiJ7dt36irmsg" presentationName="Processo de Testes baseado no nível D do MPS-BR">
+            <methodElementProperty xmi:id="_i6tyEHi2EeiJ7dt36irmsg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_RomngHY5EeigrY4ezy1uYw#_RomngXY5EeigrY4ezy1uYw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8UJuHHYaEeigrY4ezy1uYw" name="CoreContent" guid="_8UJuHHYaEeigrY4ezy1uYw">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_H1MNsHYuEeigrY4ezy1uYw" name="identificacao_dos_produtos_para_validacao" guid="_H1MNsHYuEeigrY4ezy1uYw" presentationName="identificacao dos produtos para validacao">
+          <methodElementProperty xmi:id="_H1MNsXYuEeigrY4ezy1uYw" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_HkjCQHYxEeigrY4ezy1uYw" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4sfFAHY0EeigrY4ezy1uYw" name="criterios_de_selecao" guid="_4sfFAHY0EeigrY4ezy1uYw" presentationName="criterios de selecao" briefDescription="Esta identificação pode ocorrer nos estágios iniciais do projeto, com base nos artefatos que serão produzidos pelo processo.Uma boa prática é definir critérios para seleção dos produtos ou componentes de produto que serão validados e selecioná-los segundo estes critérios..Pode-se, por exemplo, selecionar os produtos mais relevantes com base nas necessidades do cliente ou levando-se em consideração os riscos associados aos produtos." performedBy="_vugbYHi7EeiJ7dt36irmsg" mandatoryInput="_P1IbkHY1EeigrY4ezy1uYw" output="_qxoeQHY1EeigrY4ezy1uYw">
+            <methodElementProperty xmi:id="_brzHkHY1EeigrY4ezy1uYw" name="me_edited" value="true"/>
+            <presentation xmi:id="-3JQIPbJ-75kqV6DahJjTqA" href="uma://-3JQIPbJ-75kqV6DahJjTqA#-3JQIPbJ-75kqV6DahJjTqA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_P1IbkHY1EeigrY4ezy1uYw" name="definicao_dos_criterios_de_selecao_dos_produtos._1" guid="_P1IbkHY1EeigrY4ezy1uYw" presentationName="definicao dos criterios de selecao dos produtos." briefDescription="definição dos criterios de seleção dos produtos.">
+            <methodElementProperty xmi:id="_oDqcIHY1EeigrY4ezy1uYw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qxoeQHY1EeigrY4ezy1uYw" name="criterios_estabelecidos_para_selecao_dos_produtos_de_validacao" guid="_qxoeQHY1EeigrY4ezy1uYw" presentationName="criterios estabelecidos para selecao dos produtos de validacao" briefDescription="criterios estabelecidos para seleção dos produtos de validação">
+            <methodElementProperty xmi:id="_wLa7gHY3EeigrY4ezy1uYw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_X2TqcHY6EeigrY4ezy1uYw" name="selecionar_segundo_os_criterios" guid="_X2TqcHY6EeigrY4ezy1uYw" presentationName="selecionar segundo os criterios" briefDescription="seleção dos produtos para a validação de acordo com os criterios estabelecidos. " performedBy="_vugbYHi7EeiJ7dt36irmsg" mandatoryInput="_71fOkHY6EeigrY4ezy1uYw" output="_C8JIMHY7EeigrY4ezy1uYw">
+            <methodElementProperty xmi:id="_ra8HsHY6EeigrY4ezy1uYw" name="me_edited" value="true"/>
+            <presentation xmi:id="-BdtvcEPb4Yva0lm8W3bTKg" href="uma://-BdtvcEPb4Yva0lm8W3bTKg#-BdtvcEPb4Yva0lm8W3bTKg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_71fOkHY6EeigrY4ezy1uYw" name="criterios_definidos_para_selecao" guid="_71fOkHY6EeigrY4ezy1uYw" presentationName="criterios definidos para selecao">
+            <methodElementProperty xmi:id="_BqCnIHY7EeigrY4ezy1uYw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_C8JIMHY7EeigrY4ezy1uYw" name="selecao_dos_produtos_pelo_criterio" guid="_C8JIMHY7EeigrY4ezy1uYw" presentationName="selecao dos produtos pelo criterio">
+            <methodElementProperty xmi:id="_G87dEHY7EeigrY4ezy1uYw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UUR4sHY7EeigrY4ezy1uYw" name="lista_dos_mais_validados" guid="_UUR4sHY7EeigrY4ezy1uYw" presentationName="lista dos mais validados" briefDescription="É possível, também, definir, em nível organizacional, uma lista de produtos ou componentes de produto que normalmente são validados, de forma que os projetos só precisem adaptar essa lista às suas necessidades. " performedBy="_vugbYHi7EeiJ7dt36irmsg" mandatoryInput="_knUpYHY7EeigrY4ezy1uYw" output="_qH1roHY7EeigrY4ezy1uYw">
+            <methodElementProperty xmi:id="_ihWbYHY7EeigrY4ezy1uYw" name="me_edited" value="true"/>
+            <presentation xmi:id="-N5nv9O5xhXSdPfEPU1L2KA" href="uma://-N5nv9O5xhXSdPfEPU1L2KA#-N5nv9O5xhXSdPfEPU1L2KA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_knUpYHY7EeigrY4ezy1uYw" name="lista_de_produtos_validados" guid="_knUpYHY7EeigrY4ezy1uYw" presentationName="lista de produtos validados">
+            <methodElementProperty xmi:id="_n8i4wHY7EeigrY4ezy1uYw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qH1roHY7EeigrY4ezy1uYw" name="lista_com_os_produtos_mais_validados" guid="_qH1roHY7EeigrY4ezy1uYw" presentationName="Lista com os produtos mais validados">
+            <methodElementProperty xmi:id="_veTaAHY7EeigrY4ezy1uYw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_vugbYHi7EeiJ7dt36irmsg" name="gerente_de_teste" guid="_vugbYHi7EeiJ7dt36irmsg" presentationName="gerente de teste">
+            <methodElementProperty xmi:id="_vvaaUHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_C_PwoHZpEeitg_eeCHn3zA" name="identificao_dos_produtos_para_verificacao" guid="_C_PwoHZpEeitg_eeCHn3zA" presentationName="identificao dos produtos para verificacao" briefDescription=" Produtos de trabalho a serem verificados são identificados">
+          <methodElementProperty xmi:id="_C_ZhoHZpEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_XP8CoHZpEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tpe3gHZpEeitg_eeCHn3zA" name="analisar_produtos_de_trabalho" guid="_tpe3gHZpEeitg_eeCHn3zA" presentationName="Analisar produtos de trabalho" briefDescription="Para atender a este resultado esperado deve-se analisar os produtos de trabalho que serão produzidos ao longo do projeto" performedBy="_woHj8Hi7EeiJ7dt36irmsg" mandatoryInput="_EbwVcHZqEeitg_eeCHn3zA" output="_ZEde0HZqEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_0TAJMHZpEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-yjEuGgTgb5iorNYo2FGAvQ" href="uma://-yjEuGgTgb5iorNYo2FGAvQ#-yjEuGgTgb5iorNYo2FGAvQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EbwVcHZqEeitg_eeCHn3zA" name="produtos_para_serem_analidados_que_serao_produzidos_ao_longo_do_projeto" guid="_EbwVcHZqEeitg_eeCHn3zA" presentationName="Produtos para serem analidados que serao produzidos ao longo do projeto">
+            <methodElementProperty xmi:id="_Xt4GYHZqEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZEde0HZqEeitg_eeCHn3zA" name="produtos_de_trabalho_analisados" guid="_ZEde0HZqEeitg_eeCHn3zA" presentationName="Produtos de trabalho analisados">
+            <methodElementProperty xmi:id="_biZg4HZqEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_h3h28HZqEeitg_eeCHn3zA" name="estabelecer_uma_boa_estrategia_de_selecao" guid="_h3h28HZqEeitg_eeCHn3zA" presentationName="estabelecer uma boa estrategia de selecao">
+            <methodElementProperty xmi:id="_oGHgIHZqEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_pBuMwHZqEeitg_eeCHn3zA" name="definicao_da_estrategia_de_selecao" guid="_pBuMwHZqEeitg_eeCHn3zA" presentationName="definicao da estrategia de selecao">
+            <methodElementProperty xmi:id="_sVBwkHZqEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tPueQHZqEeitg_eeCHn3zA" name="estrategia_de_selecao" guid="_tPueQHZqEeitg_eeCHn3zA" presentationName="Estrategia de selecao" performedBy="_woHj8Hi7EeiJ7dt36irmsg" mandatoryInput="_h3h28HZqEeitg_eeCHn3zA" output="_pBuMwHZqEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_320_0HZqEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_juimcHZrEeitg_eeCHn3zA" name="selecionar_produtos_para_verficacao" guid="_juimcHZrEeitg_eeCHn3zA" presentationName="selecionar produtos para verficacao" performedBy="_woHj8Hi7EeiJ7dt36irmsg" mandatoryInput="_qaDcMHZrEeitg_eeCHn3zA" output="_xYJPsHZrEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_pSA2EHZrEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qaDcMHZrEeitg_eeCHn3zA" name="selecao_dos_produtos_para_serem_verificados_" guid="_qaDcMHZrEeitg_eeCHn3zA" presentationName="selecao dos produtos para serem verificados ">
+            <methodElementProperty xmi:id="_wKslIHZrEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xYJPsHZrEeitg_eeCHn3zA" name="produtos_verificados" guid="_xYJPsHZrEeitg_eeCHn3zA" presentationName="produtos verificados">
+            <methodElementProperty xmi:id="_zjfF4HZrEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_woHj8Hi7EeiJ7dt36irmsg" name="gerente_de_teste" guid="_woHj8Hi7EeiJ7dt36irmsg" presentationName="gerente de teste">
+            <methodElementProperty xmi:id="_wpAUwHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_pFKQYHZsEeitg_eeCHn3zA" name="estrategia_de_validacao" guid="_pFKQYHZsEeitg_eeCHn3zA" presentationName="Estrategia de validacacao" briefDescription="Uma estratégia de validação é desenvolvida e implementada, estabelecendo cronograma, participantes envolvidos, métodos para validação e qualquer material a ser utilizado na validação ">
+          <methodElementProperty xmi:id="_pFKQYXZsEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_xKEiAHZsEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_h59jEHZuEeitg_eeCHn3zA" name="planejamento_do_que_sera_feito" guid="_h59jEHZuEeitg_eeCHn3zA" presentationName="Planejamento do que sera feito">
+            <methodElementProperty xmi:id="_l08K4HZuEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_npaZMHZuEeitg_eeCHn3zA" name="definicao_do_planejamento_" guid="_npaZMHZuEeitg_eeCHn3zA" presentationName="Definicao do planejamento ">
+            <methodElementProperty xmi:id="_pP-uYHZuEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qIm_gHZuEeitg_eeCHn3zA" name="planejamento_do_conograma_das_atividades_" guid="_qIm_gHZuEeitg_eeCHn3zA" presentationName="Planejamento do conograma das atividades ">
+            <methodElementProperty xmi:id="_tsOQMHZuEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ulA5YHZuEeitg_eeCHn3zA" name="definicao_do_conograma" guid="_ulA5YHZuEeitg_eeCHn3zA" presentationName="Definicao do conograma">
+            <methodElementProperty xmi:id="_wteasHZuEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_x-mrYHZuEeitg_eeCHn3zA" name="recursos_que_serao_necesarios_para_a_execucao_do_processo" guid="_x-mrYHZuEeitg_eeCHn3zA" presentationName="Recursos que serao necesarios para a execucao do processo">
+            <methodElementProperty xmi:id="_2099YHZuEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4MzTAHZuEeitg_eeCHn3zA" name="recursos_definidos" guid="_4MzTAHZuEeitg_eeCHn3zA" presentationName="recursos definidos">
+            <methodElementProperty xmi:id="_BmXqcHZvEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_CXUmQHZvEeitg_eeCHn3zA" name="criar_plano_de_projeto" guid="_CXUmQHZvEeitg_eeCHn3zA" presentationName="Criar Plano de projeto">
+            <methodElementProperty xmi:id="_EfNf0HZvEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FsaSwHZvEeitg_eeCHn3zA" name="plano_de_projeto_criado" guid="_FsaSwHZvEeitg_eeCHn3zA" presentationName="Plano de projeto criado">
+            <methodElementProperty xmi:id="_HJf70HZvEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IcYqkHZwEeitg_eeCHn3zA" name="planejamento_espefico_" guid="_IcYqkHZwEeitg_eeCHn3zA" presentationName="planejamento espefico " briefDescription="Alguns métodos de validação requerem um planejamento específico que deve ser realizado, por exemplo, o planejamento dos casos de testes. " performedBy="_i09WEHi7EeiJ7dt36irmsg" mandatoryInput="_h59jEHZuEeitg_eeCHn3zA" output="_npaZMHZuEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_blTcMHZwEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cZWvUHZwEeitg_eeCHn3zA" name="cronograma_de_atividades" guid="_cZWvUHZwEeitg_eeCHn3zA" presentationName="Cronograma de atividades" briefDescription="Deve ser definido ainda um cronograma para as atividades de validação e os recursos necessários à execução das atividades devem ser planejados. " performedBy="_i09WEHi7EeiJ7dt36irmsg" mandatoryInput="_qIm_gHZuEeitg_eeCHn3zA" output="_ulA5YHZuEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_i9PTEHZwEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-BZfmZxaBqlHJS_G_au4isA" href="uma://-BZfmZxaBqlHJS_G_au4isA#-BZfmZxaBqlHJS_G_au4isA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_krBqkHZwEeitg_eeCHn3zA" name="recursos" guid="_krBqkHZwEeitg_eeCHn3zA" presentationName="recursos" briefDescription="alocação dos recursos, tanto humanos quanto outros recursos em geral, devem estar integrados ao Plano do Projeto." performedBy="_i09WEHi7EeiJ7dt36irmsg" mandatoryInput="_x-mrYHZuEeitg_eeCHn3zA" output="_4MzTAHZuEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_z_jkkHZwEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2fTkgHZwEeitg_eeCHn3zA" name="criar_plano_de_projeto" guid="_2fTkgHZwEeitg_eeCHn3zA" presentationName="criar Plano de projeto" performedBy="_i09WEHi7EeiJ7dt36irmsg" mandatoryInput="_CXUmQHZvEeitg_eeCHn3zA" output="_FsaSwHZvEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_3on9AHZwEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Jos3QHZxEeitg_eeCHn3zA" name="criar_prototipos" guid="_Jos3QHZxEeitg_eeCHn3zA" presentationName="Criar prototipos" briefDescription="Prototipação é um dos métodos para a validação de requisitos. " performedBy="_i09WEHi7EeiJ7dt36irmsg" mandatoryInput="_YTl-YHZxEeitg_eeCHn3zA" output="_cxNZMHZxEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_Pm1CkHZxEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-mV7MCiqnvvntMOFWUn8eOA" href="uma://-mV7MCiqnvvntMOFWUn8eOA#-mV7MCiqnvvntMOFWUn8eOA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_YTl-YHZxEeitg_eeCHn3zA" name="validar_por_prototipacao" guid="_YTl-YHZxEeitg_eeCHn3zA" presentationName="Validar por prototipacao">
+            <methodElementProperty xmi:id="_bwBpAHZxEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_cxNZMHZxEeitg_eeCHn3zA" name="prototipos_para_validacao_criados" guid="_cxNZMHZxEeitg_eeCHn3zA" presentationName="Prototipos para validacao criados">
+            <methodElementProperty xmi:id="_fLRA0HZxEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_i09WEHi7EeiJ7dt36irmsg" name="lider_de_teste" guid="_i09WEHi7EeiJ7dt36irmsg" presentationName="Lider de teste">
+            <methodElementProperty xmi:id="_i16_YHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_o4C9QHZzEeitg_eeCHn3zA" name="estrategias_de_verificacao" guid="_o4C9QHZzEeitg_eeCHn3zA" presentationName="estrategias de verificacao" briefDescription="Uma estratégia de verificação é desenvolvida e implementada, estabelecendo cronograma, revisores envolvidos, métodos para verificação e qualquer material a ser utilizado na verificação">
+          <methodElementProperty xmi:id="_o4MuQHZzEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_sT6nMHZzEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vsjW8HZzEeitg_eeCHn3zA" name="definir_estrategia_de_verificacao" guid="_vsjW8HZzEeitg_eeCHn3zA" presentationName="definir estrategia de verificacao" briefDescription="O alcance deste resultado esperado envolve definir uma estratégia de verificação descrevendo os procedimentos, a infra-estrutura necessária e as responsabilidades pelas atividades de verificação. " performedBy="_i09WEHi7EeiJ7dt36irmsg" mandatoryInput="_FLBDoHZ0Eeitg_eeCHn3zA" output="_ZzFT0HZ0Eeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_Czw4YHZ0Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-WVUYmmyG30eEMcvT97cvlQ" href="uma://-WVUYmmyG30eEMcvT97cvlQ#-WVUYmmyG30eEMcvT97cvlQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FLBDoHZ0Eeitg_eeCHn3zA" name="definir_estrategia_de_verificacao" guid="_FLBDoHZ0Eeitg_eeCHn3zA" presentationName="definir estrategia de verificacao">
+            <methodElementProperty xmi:id="_Y-UPAHZ0Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ZzFT0HZ0Eeitg_eeCHn3zA" name="estrategia_de_verificacao_definida" guid="_ZzFT0HZ0Eeitg_eeCHn3zA" presentationName="Estrategia de verificacao definida">
+            <methodElementProperty xmi:id="_dYgiYHZ0Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uDwXsHZ0Eeitg_eeCHn3zA" name="revisao_por_pares_e_testes" guid="_uDwXsHZ0Eeitg_eeCHn3zA" presentationName="revisao por pares e testes" briefDescription=" Os métodos que serão usados para verificação de cada produto de trabalho selecionado para verificação devem ser identificados, garantindo, em cada projeto, a realização de algum tipo de revisão por pares e testes." performedBy="_jw4y0Hi7EeiJ7dt36irmsg" mandatoryInput="_67-x4HZ1Eeitg_eeCHn3zA" output="_A3aOgHZ2Eeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_2OJmQHZ0Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-I0KCkpi1eWvlOf48YsC10A" href="uma://-I0KCkpi1eWvlOf48YsC10A#-I0KCkpi1eWvlOf48YsC10A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_67-x4HZ1Eeitg_eeCHn3zA" name="identificar_metodos_de_verificacao" guid="_67-x4HZ1Eeitg_eeCHn3zA" presentationName="identificar metodos de verificacao">
+            <methodElementProperty xmi:id="__9Q6cHZ1Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_A3aOgHZ2Eeitg_eeCHn3zA" name="revisao_documentada_por_pares_de_teste" guid="_A3aOgHZ2Eeitg_eeCHn3zA" presentationName="revisao documentada por pares de teste">
+            <methodElementProperty xmi:id="_ECitwHZ2Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_E-G-IHZ2Eeitg_eeCHn3zA" name="definicao_das_ferramentas_de_apoio" guid="_E-G-IHZ2Eeitg_eeCHn3zA" presentationName="definicao das ferramentas de apoio">
+            <methodElementProperty xmi:id="_KBlfEHZ2Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_K-WCQHZ2Eeitg_eeCHn3zA" name="definidas_as_ferramentas_de_apoio" guid="_K-WCQHZ2Eeitg_eeCHn3zA" presentationName="definidas as ferramentas de apoio">
+            <methodElementProperty xmi:id="_Nk3_oHZ2Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QYWz4HZ2Eeitg_eeCHn3zA" name="definir_ferramentas" guid="_QYWz4HZ2Eeitg_eeCHn3zA" presentationName="definir ferramentas" performedBy="_jw4y0Hi7EeiJ7dt36irmsg" mandatoryInput="_E-G-IHZ2Eeitg_eeCHn3zA" output="_K-WCQHZ2Eeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_SEeXcHZ2Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_jw4y0Hi7EeiJ7dt36irmsg" name="lider_de_teste" guid="_jw4y0Hi7EeiJ7dt36irmsg" presentationName="Lider de teste">
+            <methodElementProperty xmi:id="_jx1OAHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4_NGsHZ2Eeitg_eeCHn3zA" name="criterios_de_validacao" guid="_4_NGsHZ2Eeitg_eeCHn3zA" presentationName="criterios de validacao" briefDescription="Critérios e procedimentos para validação dos produtos de trabalho a serem validados são identificados e um ambiente para validação é estabelecido">
+          <methodElementProperty xmi:id="_4_NGsXZ2Eeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_9v4ncHZ2Eeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_IpqesHbKEeitg_eeCHn3zA" name="definicao_dos_criterios" guid="_IpqesHbKEeitg_eeCHn3zA" presentationName="definicao dos criterios">
+            <methodElementProperty xmi:id="_NPTNEHbKEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OmwvQHbKEeitg_eeCHn3zA" name="resultado_dos_criterios_" guid="_OmwvQHbKEeitg_eeCHn3zA" presentationName="resultado dos criterios ">
+            <methodElementProperty xmi:id="_QKWo8HbKEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_fZoPgHbKEeitg_eeCHn3zA" name="estabelecer_metricas" guid="_fZoPgHbKEeitg_eeCHn3zA" presentationName="estabelecer metricas">
+            <methodElementProperty xmi:id="_hr2JwHbKEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iywHcHbKEeitg_eeCHn3zA" name="resultado_das_metricas_para_verificar_criterios_atendidos" guid="_iywHcHbKEeitg_eeCHn3zA" presentationName="resultado das metricas para verificar criterios atendidos">
+            <methodElementProperty xmi:id="_l3xXoHbKEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_m2JrcHbKEeitg_eeCHn3zA" name="denfinir_criterios" guid="_m2JrcHbKEeitg_eeCHn3zA" presentationName="Denfinir criterios" briefDescription="Devem ser definidos os critérios para a validação de cada produto ou componente do produtoAlguns exemplos de critérios para validação dos requisitos são: adequação funcional e usabilidade. Para validação de um software alguns critérios de validação poderiam ser: tempo de resposta, tolerância a falhas, recuperabilidade, uso de memória, confiabilidade e portabilidade." performedBy="_fV7qcHi7EeiJ7dt36irmsg" mandatoryInput="_IpqesHbKEeitg_eeCHn3zA" output="_OmwvQHbKEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_qH364HbKEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-tFMzDWd92k0xjT93T0k2lw" href="uma://-tFMzDWd92k0xjT93T0k2lw#-tFMzDWd92k0xjT93T0k2lw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gm2bIHbLEeitg_eeCHn3zA" name="metricas" guid="_gm2bIHbLEeitg_eeCHn3zA" presentationName="metricas" briefDescription=" Para ajudar a determinar se um critério foi ou não atendido, algumas métricas podem ser definidas." performedBy="_fV7qcHi7EeiJ7dt36irmsg" mandatoryInput="_fZoPgHbKEeitg_eeCHn3zA" output="_iywHcHbKEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_jbV8AHbLEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-nrgj4IeOF8sO87d-rCjgjw" href="uma://-nrgj4IeOF8sO87d-rCjgjw#-nrgj4IeOF8sO87d-rCjgjw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fV7qcHi7EeiJ7dt36irmsg" name="lider_de_teste" guid="_fV7qcHi7EeiJ7dt36irmsg" presentationName="Lider de teste">
+            <methodElementProperty xmi:id="_fW-zUHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v_j1EHbMEeitg_eeCHn3zA" name="criterios_de_verificacao" guid="_v_j1EHbMEeitg_eeCHn3zA" presentationName="criterios de verificacao" briefDescription="Critérios e procedimentos para verificação dos produtos de trabalho a serem verificados são identificados e um ambiente para verificação é estabelecido">
+          <methodElementProperty xmi:id="_v_j1EXbMEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_0Uxh0HbMEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_3LB9QHbMEeitg_eeCHn3zA" name="todos_os_recursos_necessarios_para_a_execulcao_da_atividade" guid="_3LB9QHbMEeitg_eeCHn3zA" presentationName="todos os recursos necessarios para a execulcao da atividade">
+            <methodElementProperty xmi:id="_5BmdUHbMEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_U8v5kHbNEeitg_eeCHn3zA" name="verificar_recursos" guid="_U8v5kHbNEeitg_eeCHn3zA" presentationName="verificar recursos">
+            <methodElementProperty xmi:id="_WwDqQHbNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ydaj8HbNEeitg_eeCHn3zA" name="preparacao_do_ambiente" guid="_Ydaj8HbNEeitg_eeCHn3zA" presentationName="preparacao do ambiente" mandatoryInput="_U8v5kHbNEeitg_eeCHn3zA" output="_3LB9QHbMEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_ao_DoHbNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nPU5EHbNEeitg_eeCHn3zA" name="definicao_dos_criterios" guid="_nPU5EHbNEeitg_eeCHn3zA" presentationName="definicao dos criterios">
+            <methodElementProperty xmi:id="_nQhL4HbNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nPU5EXbNEeitg_eeCHn3zA" name="estabelecer_metricas" guid="_nPU5EXbNEeitg_eeCHn3zA" presentationName="estabelecer metricas">
+            <methodElementProperty xmi:id="_nQhL4XbNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nPU5EnbNEeitg_eeCHn3zA" name="resultado_das_metricas_para_verificar_criterios_atendidos" guid="_nPU5EnbNEeitg_eeCHn3zA" presentationName="resultado das metricas para verificar criterios atendidos">
+            <methodElementProperty xmi:id="_nQhL4nbNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nPU5E3bNEeitg_eeCHn3zA" name="resultado_dos_criterios_" guid="_nPU5E3bNEeitg_eeCHn3zA" presentationName="resultado dos criterios ">
+            <methodElementProperty xmi:id="_nQhL43bNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ptb6QHbNEeitg_eeCHn3zA" name="denfinir_criterios" guid="_ptb6QHbNEeitg_eeCHn3zA" presentationName="Denfinir criterios" briefDescription="O alcance deste resultado esperado implica na definição dos critérios e procedimentos que serão utilizados para a verificação de cada produto de trabalho e na preparação do ambiente para verificação, disponibilizando ferramentas, recursos de hardware, infra-estrutura de rede e outros recursos necessários à execução das atividades planejadas. " performedBy="_gHuTwHi7EeiJ7dt36irmsg" mandatoryInput="_nPU5EHbNEeitg_eeCHn3zA" output="_nPU5E3bNEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_puecEHbNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-odPgHbhg9U8erfBACErrsw" href="uma://-odPgHbhg9U8erfBACErrsw#-odPgHbhg9U8erfBACErrsw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ptb6QXbNEeitg_eeCHn3zA" name="metricas" guid="_ptb6QXbNEeitg_eeCHn3zA" presentationName="metricas" briefDescription="Para ajudar a determinar se um critério foi ou não atendido, questões (checklist) e/ou métricas para cada critério podem ser definidas." mandatoryInput="_nPU5EXbNEeitg_eeCHn3zA" output="_nPU5EnbNEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_puecEXbNEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-cGSDdLR9WpW7r5S3eiWy-A" href="uma://-cGSDdLR9WpW7r5S3eiWy-A#-cGSDdLR9WpW7r5S3eiWy-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_gHuTwHi7EeiJ7dt36irmsg" name="lider_de_teste" guid="_gHuTwHi7EeiJ7dt36irmsg" presentationName="Lider de teste">
+            <methodElementProperty xmi:id="_gInEkHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_4kVnoHbOEeitg_eeCHn3zA" name="execucao_da_validacao" guid="_4kVnoHbOEeitg_eeCHn3zA" presentationName="execucao da validacao">
+          <methodElementProperty xmi:id="_4kVnoXbOEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_9bUksHbOEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_I9F3YHbSEeitg_eeCHn3zA" name="planejamento" guid="_I9F3YHbSEeitg_eeCHn3zA" presentationName="planejamento" performedBy="_o9vSMHi7EeiJ7dt36irmsg" mandatoryInput="_LhTgkHbSEeitg_eeCHn3zA" output="_RL_ygHbSEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_KzYDkHbSEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_LhTgkHbSEeitg_eeCHn3zA" name="organizar_a_realizacao_dos_testes" guid="_LhTgkHbSEeitg_eeCHn3zA" presentationName="organizar a realizacao dos testes">
+            <methodElementProperty xmi:id="_QYhuMHbSEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_RL_ygHbSEeitg_eeCHn3zA" name="planejamento_de_testes_criado" guid="_RL_ygHbSEeitg_eeCHn3zA" presentationName="planejamento de testes criado">
+            <methodElementProperty xmi:id="_WWeTUHbSEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cHSbYHbSEeitg_eeCHn3zA" name="projeto_de_caso_de_teste" guid="_cHSbYHbSEeitg_eeCHn3zA" presentationName="projeto de caso de teste" performedBy="_o9vSMHi7EeiJ7dt36irmsg" output="_ftpeEHbSEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_erfdgHbSEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ftpeEHbSEeitg_eeCHn3zA" name="resultado_dos_projeto_de_casos_de_testes_" guid="_ftpeEHbSEeitg_eeCHn3zA" presentationName="resultado dos projeto de casos de testes ">
+            <methodElementProperty xmi:id="_usCwAHbSEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zM_LoHbSEeitg_eeCHn3zA" name="execucao" guid="_zM_LoHbSEeitg_eeCHn3zA" presentationName="execucao" performedBy="_o9vSMHi7EeiJ7dt36irmsg" mandatoryInput="_RL_ygHbSEeitg_eeCHn3zA" output="_ftpeEHbSEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_1F6cIHbSEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_3FDCUHbSEeitg_eeCHn3zA" name="projeto_de_casos_de_teste" guid="_3FDCUHbSEeitg_eeCHn3zA" presentationName="projeto de casos de teste">
+            <methodElementProperty xmi:id="_5NtX8HbSEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__IFrsHbSEeitg_eeCHn3zA" name="resultado_da_execucao" guid="__IFrsHbSEeitg_eeCHn3zA" presentationName="resultado da execucao">
+            <methodElementProperty xmi:id="_wVp8sHbTEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xRsuMHbTEeitg_eeCHn3zA" name="registro_do_resultados_das_avaliacoes" guid="_xRsuMHbTEeitg_eeCHn3zA" presentationName="registro do resultados das avaliacoes">
+            <methodElementProperty xmi:id="_9IhLMHbTEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AlN7kHbUEeitg_eeCHn3zA" name="avalidacao_dos_resultados" guid="_AlN7kHbUEeitg_eeCHn3zA" presentationName="avalidacao dos resultados" performedBy="_o9vSMHi7EeiJ7dt36irmsg" mandatoryInput="__IFrsHbSEeitg_eeCHn3zA" output="_xRsuMHbTEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_C_zusHbUEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_o9vSMHi7EeiJ7dt36irmsg" name="analista_de_teste" guid="_o9vSMHi7EeiJ7dt36irmsg" presentationName="analista de teste">
+            <methodElementProperty xmi:id="_o-oqEHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hOi-MHbUEeitg_eeCHn3zA" name="execucao_da_verificacao" guid="_hOi-MHbUEeitg_eeCHn3zA" presentationName="execucao da verificacao" briefDescription="Atividades de verificação, incluindo testes e revisões por pares, são executadas">
+          <methodElementProperty xmi:id="_hOi-MXbUEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_kpDWMHbUEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_A83xIHbVEeitg_eeCHn3zA" name="atividades_de_verifacao" guid="_A83xIHbVEeitg_eeCHn3zA" presentationName="atividades de verifacao" briefDescription="Este resultado esperado visa garantir que as atividades de verificação são executadas conforme planejado" performedBy="_pzhDoHi7EeiJ7dt36irmsg" mandatoryInput="_PI_cIHbWEeitg_eeCHn3zA" output="_iKn6AHbWEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_rBbYEHbVEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZHL34ggzCG_0CYwVtbk_bw" href="uma://-ZHL34ggzCG_0CYwVtbk_bw#-ZHL34ggzCG_0CYwVtbk_bw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_sB4IcHbVEeitg_eeCHn3zA" name="planejamento" guid="_sB4IcHbVEeitg_eeCHn3zA" presentationName="planejamento" performedBy="_pzhDoHi7EeiJ7dt36irmsg" mandatoryInput="_2LhR8HbVEeitg_eeCHn3zA" output="_PI_cIHbWEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_to8M4HbVEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vIxA4HbVEeitg_eeCHn3zA" name="revisao_por_pares_e_testes" guid="_vIxA4HbVEeitg_eeCHn3zA" presentationName="revisao por pares e testes" performedBy="_pzhDoHi7EeiJ7dt36irmsg" output="_W2iWoHbWEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_xdHpIHbVEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_2LhR8HbVEeitg_eeCHn3zA" name="requisitos_para_a_ativadade_realizada" guid="_2LhR8HbVEeitg_eeCHn3zA" presentationName="requisitos para a ativadade realizada">
+            <methodElementProperty xmi:id="_JIB_QHbWEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_PI_cIHbWEeitg_eeCHn3zA" name="planejamento_criado" guid="_PI_cIHbWEeitg_eeCHn3zA" presentationName="Planejamento criado">
+            <methodElementProperty xmi:id="_RewZoHbWEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_W2iWoHbWEeitg_eeCHn3zA" name="resultado_da_revisao" guid="_W2iWoHbWEeitg_eeCHn3zA" presentationName="resultado da revisao">
+            <methodElementProperty xmi:id="_re46sHbWEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iKn6AHbWEeitg_eeCHn3zA" name="resultado_da_execucao" guid="_iKn6AHbWEeitg_eeCHn3zA" presentationName="resultado da execucao">
+            <methodElementProperty xmi:id="_iLwicHbWEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_pzhDoHi7EeiJ7dt36irmsg" name="analista_de_teste" guid="_pzhDoHi7EeiJ7dt36irmsg" presentationName="analista de teste">
+            <methodElementProperty xmi:id="_p0nP0Hi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6gmw8HbXEeitg_eeCHn3zA" name="analise_de_resultados da validacao" guid="_6gmw8HbXEeitg_eeCHn3zA" presentationName="analise de resultados da validacao" briefDescription="Resultados de atividades de validação são analisados e disponibilizados para as partes interessadas">
+          <methodElementProperty xmi:id="_6gmw8XbXEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_8rkMoHbXEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Bel2wHbYEeitg_eeCHn3zA" name="resultados_das_atividades_execultadas" guid="_Bel2wHbYEeitg_eeCHn3zA" presentationName="resultados das atividades execultadas">
+            <methodElementProperty xmi:id="_Du_MEHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_EmAToHbYEeitg_eeCHn3zA" name="resultado_na_analise" guid="_EmAToHbYEeitg_eeCHn3zA" presentationName="resultado na analise">
+            <methodElementProperty xmi:id="_HZaPYHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_I8KbkHbYEeitg_eeCHn3zA" name="entrar_em_contado_com_os_clientesrepresentantes" guid="_I8KbkHbYEeitg_eeCHn3zA" presentationName="entrar em contado com os clientes/representantes">
+            <methodElementProperty xmi:id="_Mob5AHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_N7RZ4HbYEeitg_eeCHn3zA" name="resposta_do_cliente_sobre_o_produto" guid="_N7RZ4HbYEeitg_eeCHn3zA" presentationName="resposta do cliente sobre o produto">
+            <methodElementProperty xmi:id="_PYZfMHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_t8-b0HbYEeitg_eeCHn3zA" name="analise_de_laudos_de_avaliacao" guid="_t8-b0HbYEeitg_eeCHn3zA" presentationName="analise de laudos de avaliacao">
+            <methodElementProperty xmi:id="_wDpNYHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xx1NgHbYEeitg_eeCHn3zA" name="relatorio_de_testes" guid="_xx1NgHbYEeitg_eeCHn3zA" presentationName="relatorio de testes">
+            <methodElementProperty xmi:id="_y7x4IHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zsimsHbYEeitg_eeCHn3zA" name="resultados_do_protudo" guid="_zsimsHbYEeitg_eeCHn3zA" presentationName="resultados do protudo">
+            <methodElementProperty xmi:id="_0s7FoHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_66ZUgHbYEeitg_eeCHn3zA" name="analise_dos_resultados" guid="_66ZUgHbYEeitg_eeCHn3zA" presentationName="analise dos resultados" briefDescription="envolve realizar uma análise dos resultados obtidos em decorrência da execução das atividades relacionadas a validação" performedBy="_MUyUwHi7EeiJ7dt36irmsg" mandatoryInput="_Bel2wHbYEeitg_eeCHn3zA" output="_EmAToHbYEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_8V1XwHbYEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-vmJRu14KOzvq1jQsfU11xw" href="uma://-vmJRu14KOzvq1jQsfU11xw#-vmJRu14KOzvq1jQsfU11xw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LljqQHbZEeitg_eeCHn3zA" name="disponibilizacao_ao_cliente_" guid="_LljqQHbZEeitg_eeCHn3zA" presentationName="disponibilizacao ao cliente " briefDescription=" disponibilizar resultados para o cliente, ou seu representante na execução das atividades, e outras partes interessadas." performedBy="_5rW7gHi6EeiJ7dt36irmsg" mandatoryInput="_I8KbkHbYEeitg_eeCHn3zA" output="_N7RZ4HbYEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_P4uvoHbZEeitg_eeCHn3zA" name="me_edited" value="true"/>
+            <presentation xmi:id="-rMF8DvBY_hQRKZka9tFxMQ" href="uma://-rMF8DvBY_hQRKZka9tFxMQ#-rMF8DvBY_hQRKZka9tFxMQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UsJbUHbZEeitg_eeCHn3zA" name="resultado_final_da_analise" guid="_UsJbUHbZEeitg_eeCHn3zA" presentationName="resultado final da analise" performedBy="_5rW7gHi6EeiJ7dt36irmsg" mandatoryInput="_I8KbkHbYEeitg_eeCHn3zA _t8-b0HbYEeitg_eeCHn3zA _xx1NgHbYEeitg_eeCHn3zA" output="_zsimsHbYEeitg_eeCHn3zA">
+            <methodElementProperty xmi:id="_d94scHbZEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_5rW7gHi6EeiJ7dt36irmsg" name="arquiteto_de_teste" guid="_5rW7gHi6EeiJ7dt36irmsg" presentationName="Arquiteto de teste">
+            <methodElementProperty xmi:id="_GS4csHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_zOuz4HbZEeitg_eeCHn3zA" name="analise_de_resultados_da_verificacao" guid="_zOuz4HbZEeitg_eeCHn3zA" presentationName="analise de resultados da verificacao">
+          <methodElementProperty xmi:id="_zOuz4XbZEeitg_eeCHn3zA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_8PBIoHbZEeitg_eeCHn3zA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_79X54HiYEeiJ7dt36irmsg" name="analise_dos_resultados" guid="_79X54HiYEeiJ7dt36irmsg" presentationName="analise dos resultados" briefDescription="análise de laudos de avaliação e relatórios de testes que contenham informações sobre os resultados obtidos após a realização das atividades de verificação. " performedBy="_MUyUwHi7EeiJ7dt36irmsg" mandatoryInput="_NPYNNXiZEeiJ7dt36irmsg" output="_NPYNNHiZEeiJ7dt36irmsg">
+            <methodElementProperty xmi:id="_7-VjMHiYEeiJ7dt36irmsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Teh6FPa7A4I-n_lHhP9wCw" href="uma://-Teh6FPa7A4I-n_lHhP9wCw#-Teh6FPa7A4I-n_lHhP9wCw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_79X54XiYEeiJ7dt36irmsg" name="disponibilizacao_ao_cliente" guid="_79X54XiYEeiJ7dt36irmsg" presentationName="disponibilizacao ao cliente " briefDescription=" disponibilizar resultados para o cliente, ou seu representante na execução das atividades, e outras partes interessadas." performedBy="_MUyUwHi7EeiJ7dt36irmsg" mandatoryInput="_NPYNMXiZEeiJ7dt36irmsg" output="_NPYNM3iZEeiJ7dt36irmsg">
+            <methodElementProperty xmi:id="_7-VjMXiYEeiJ7dt36irmsg" name="me_edited" value="true"/>
+            <presentation xmi:id="-9HVrO2-OwZKtmtb2AVKzpQ" href="uma://-9HVrO2-OwZKtmtb2AVKzpQ#-9HVrO2-OwZKtmtb2AVKzpQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_79X54niYEeiJ7dt36irmsg" name="resultado_final_da_analise" guid="_79X54niYEeiJ7dt36irmsg" presentationName="resultado final da analise" performedBy="_MUyUwHi7EeiJ7dt36irmsg" mandatoryInput="_NPYNMHiZEeiJ7dt36irmsg _NPYNMXiZEeiJ7dt36irmsg _NPYNMniZEeiJ7dt36irmsg" output="_NPYNNniZEeiJ7dt36irmsg">
+            <methodElementProperty xmi:id="_7-VjMniYEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NPYNMHiZEeiJ7dt36irmsg" name="analise_de_laudos_de_verificacao" guid="_NPYNMHiZEeiJ7dt36irmsg" presentationName="analise de laudos de verificacao">
+            <methodElementProperty xmi:id="_NQJpQHiZEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NPYNMXiZEeiJ7dt36irmsg" name="entrar_em_contado_com_os_clientesrepresentantes" guid="_NPYNMXiZEeiJ7dt36irmsg" presentationName="entrar em contado com os clientes/representantes">
+            <methodElementProperty xmi:id="_NQJpQXiZEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NPYNMniZEeiJ7dt36irmsg" name="relatorio_de_testes" guid="_NPYNMniZEeiJ7dt36irmsg" presentationName="relatorio de testes">
+            <methodElementProperty xmi:id="_NQJpQniZEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NPYNM3iZEeiJ7dt36irmsg" name="resposta_do_cliente_sobre_o_produto" guid="_NPYNM3iZEeiJ7dt36irmsg" presentationName="resposta do cliente sobre o produto">
+            <methodElementProperty xmi:id="_NQJpQ3iZEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NPYNNHiZEeiJ7dt36irmsg" name="resultado_na_analise" guid="_NPYNNHiZEeiJ7dt36irmsg" presentationName="resultado na analise">
+            <methodElementProperty xmi:id="_NQJpRHiZEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NPYNNXiZEeiJ7dt36irmsg" name="resultados_das_atividades_execultadas" guid="_NPYNNXiZEeiJ7dt36irmsg" presentationName="resultados das atividades execultadas">
+            <methodElementProperty xmi:id="_NQJpRXiZEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_NPYNNniZEeiJ7dt36irmsg" name="resultados_do_protudo" guid="_NPYNNniZEeiJ7dt36irmsg" presentationName="resultados do protudo">
+            <methodElementProperty xmi:id="_NQJpRniZEeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_MUyUwHi7EeiJ7dt36irmsg" name="analista_de_teste" guid="_MUyUwHi7EeiJ7dt36irmsg" presentationName="analista de teste">
+            <methodElementProperty xmi:id="_MVqegHi7EeiJ7dt36irmsg" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8UJuHXYaEeigrY4ezy1uYw" name="CapabilityPatterns" guid="_8UJuHXYaEeigrY4ezy1uYw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8UJuHnYaEeigrY4ezy1uYw" name="DeliveryProcesses" guid="_8UJuHnYaEeigrY4ezy1uYw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_RomngHY5EeigrY4ezy1uYw" href="uma://_RomngHY5EeigrY4ezy1uYw#_RomngHY5EeigrY4ezy1uYw"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_8UJuH3YaEeigrY4ezy1uYw" name="ProcessContributions" guid="_8UJuH3YaEeigrY4ezy1uYw"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

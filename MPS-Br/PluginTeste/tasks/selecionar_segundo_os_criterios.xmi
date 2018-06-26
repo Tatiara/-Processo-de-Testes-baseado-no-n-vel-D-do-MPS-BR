@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BdtvcEPb4Yva0lm8W3bTKg" name="selecionar_segundo_os_criterios,_X2TqcHY6EeigrY4ezy1uYw" guid="-BdtvcEPb4Yva0lm8W3bTKg" changeDate="2018-06-26T17:57:45.356-0300">
+  <mainDescription>seleção dos produtos para a validação de acordo com os criterios estabelecidos.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
