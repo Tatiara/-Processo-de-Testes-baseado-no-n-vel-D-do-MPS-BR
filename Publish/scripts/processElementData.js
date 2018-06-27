@@ -1,0 +1,144 @@
+//------------------------------------------------------------------------------
+// Copyright (c) 2005, 2006 IBM Corporation and others.
+// All rights reserved. This program and the accompanying materials
+// are made available under the terms of the Eclipse Public License v1.0
+// which accompanies this distribution, and is available at
+// http://www.eclipse.org/legal/epl-v10.html
+// 
+// Contributors:
+// IBM Corporation - initial implementation
+//------------------------------------------------------------------------------
+
+// This file will include dynamically generated process layout related data from 
+// the publishing service 
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYwActivity"]="./../../PluginTeste/deliveryprocesses/resources/ciclo_1A434B01_1a434b01_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_ajTr8XiaEeiJ7dt36irmsg,_h-BxEXiaEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/estrategia de validacao_5CE078F4_6de2328a_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_ajTr8XiaEeiJ7dt36irmsg,_TjLboXibEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/criterios-eVericacao_D458E0BC_e55a9a52_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_nCIusXibEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/Validacao_31A7B4ED_6deedb42_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_ajTr8XiaEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/Verificacao_2BA52AED_67ec5142_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_nCIusXibEeiJ7dt36irmsg,_qDg1CnibEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/jj_68C5B06F_234bf405_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_nCIusXibEeiJ7dt36irmsg,_F3OMgXicEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/execucao da avaliacao_D163C4E4_8bea087a_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_ajTr8XiaEeiJ7dt36irmsg,_tqO5hXiaEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/identificação dos produtos para verificaçao_D358A639_e45a5fcf_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_nCIusXibEeiJ7dt36irmsg,_qDg1IXibEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/ll_1597E913_d01e2ca9_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_ajTr8XiaEeiJ7dt36irmsg,_0AvIkXiaEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/analise_de_resultados_da_vericacao_63D1FDB7_74d3b74d_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_nCIusXibEeiJ7dt36irmsg,_qDg1AXibEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/identificacao dos produtos_F108D81B_ab8f1bb1_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_nCIusXibEeiJ7dt36irmsg,_AWlOcXicEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/analise de resultados da validacao_BCAC29B6_77326d4c_Activity.jpeg"
+contentPage.processPage.imageFiles["_RomngXY5EeigrY4ezy1uYw,_ajTr8XiaEeiJ7dt36irmsg,_Z_A2oXibEeiJ7dt36irmsgActivity"]="./../../PluginTeste/deliveryprocesses/resources/execuca__ED0229A6_fe03e33c_Activity.jpeg"
+contentPage.processPage.elementUrls["_PztyUXmCEei9L5hnL9Zfog"] = ["lista dos mais validados","PluginTeste/deliveryprocesses/lista_dos_mais_validados_40F0FED7.html"];
+contentPage.processPage.elementUrls["_ajTr8XiaEeiJ7dt36irmsg"] = ["Verificacao","PluginTeste/deliveryprocesses/Verificacao_2BA52AED.html"];
+contentPage.processPage.elementUrls["_ty019Hl4Eei9L5hnL9Zfog"] = ["Lider de teste","PluginTeste/deliveryprocesses/lider_de_teste_103E250C.html"];
+contentPage.processPage.elementUrls["_kvc6ZHibEeiJ7dt36irmsg"] = ["requisitos para a ativadade realizada","PluginTeste/deliveryprocesses/requisitos_para_a_ativadade_realizada_CD342FD3.html"];
+contentPage.processPage.elementUrls["_AWlOcXicEeiJ7dt36irmsg"] = ["analise de resultados da validacao","PluginTeste/deliveryprocesses/analise de resultados da validacao_BCAC29B6.html"];
+contentPage.processPage.elementUrls["_7Cq6T3iaEeiJ7dt36irmsg"] = ["resultados do protudo","PluginTeste/deliveryprocesses/resultados_do_protudo_F352AF6.html"];
+contentPage.processPage.elementUrls["_qDg1HXibEeiJ7dt36irmsg"] = ["definicao dos criterios","PluginTeste/deliveryprocesses/definicao_dos_criterios_510606F4.html"];
+contentPage.processPage.elementUrls["_tqIy4niaEeiJ7dt36irmsg"] = ["estabelecer uma boa estrategia de selecao","PluginTeste/deliveryprocesses/estabelecer_uma_boa_estrategia_de_selecao_7C6BD0D.html"];
+contentPage.processPage.elementUrls["_Z_A2oXibEeiJ7dt36irmsg"] = ["execucao da vericacao","PluginTeste/deliveryprocesses/execuca__ED0229A6.html"];
+contentPage.processPage.elementUrls["_XJ_KQXibEeiJ7dt36irmsg"] = ["metricas","PluginTeste/deliveryprocesses/metricas_8ECBC2C.html"];
+contentPage.processPage.elementUrls["_EXmM23icEeiJ7dt36irmsg"] = ["analise de laudos de avaliacao","PluginTeste/deliveryprocesses/analise_de_laudos_de_avaliacao_E72FBE7C.html"];
+contentPage.processPage.elementUrls["_7Cq6QHiaEeiJ7dt36irmsg"] = ["analise dos resultados","PluginTeste/deliveryprocesses/analise_dos_resultados_5F6EBAAE.html"];
+contentPage.processPage.elementUrls["_h-BxEniaEeiJ7dt36irmsg"] = ["definidas as ferramentas de apoio","PluginTeste/deliveryprocesses/definidas_as_ferramentas_de_apoio_4B798D0A.html"];
+contentPage.processPage.elementUrls["_qDg1AXibEeiJ7dt36irmsg"] = ["identifição dos produtos para validacao","PluginTeste/deliveryprocesses/identificacao dos produtos_F108D81B.html"];
+contentPage.processPage.elementUrls["_tqO5hHiaEeiJ7dt36irmsg"] = ["Analisar produtos de trabalho","PluginTeste/deliveryprocesses/analisar_produtos_de_trabalho_C8BAC629.html"];
+contentPage.processPage.elementUrls["_JNzt2HicEeiJ7dt36irmsg"] = ["planejamento de testes criado","PluginTeste/deliveryprocesses/planejamento_de_testes_criado_BFEEC9DC.html"];
+contentPage.processPage.elementUrls["_kvc6YnibEeiJ7dt36irmsg"] = ["resultado da execucao","PluginTeste/deliveryprocesses/resultado_da_execucao_1D941DA.html"];
+contentPage.processPage.elementUrls["_h-BxFXiaEeiJ7dt36irmsg"] = ["identificar metodos de verificacao","PluginTeste/deliveryprocesses/identificar_metodos_de_verificacao_21725B13.html"];
+contentPage.processPage.elementUrls["_tzHJ0Xl4Eei9L5hnL9Zfog"] = ["gerente de teste","PluginTeste/deliveryprocesses/gerente_de_teste_B23AC47.html"];
+contentPage.processPage.elementUrls["_tqO5gniaEeiJ7dt36irmsg"] = ["definicao da estrategia de selecao","PluginTeste/deliveryprocesses/definicao_da_estrategia_de_selecao_FD5FD830.html"];
+contentPage.processPage.elementUrls["_JNzt2nicEeiJ7dt36irmsg"] = ["resultado dos projeto de casos de testes ","PluginTeste/deliveryprocesses/resultado_dos_projeto_de_casos_de_testes__B925BE02.html"];
+contentPage.processPage.elementUrls["_h-BxEXiaEeiJ7dt36irmsg"] = ["estrategia de verificacao","PluginTeste/deliveryprocesses/estrategia de validacao_5CE078F4.html"];
+contentPage.processPage.elementUrls["_qDg1DnibEeiJ7dt36irmsg"] = ["criar Plano de projeto","PluginTeste/deliveryprocesses/criar_plano_de_projeto_2D57928E.html"];
+contentPage.processPage.elementUrls["_kvcTUXibEeiJ7dt36irmsg"] = ["planejamento","PluginTeste/deliveryprocesses/planejamento_1AF019E6.html"];
+contentPage.processPage.elementUrls["_7Cq6Q3iaEeiJ7dt36irmsg"] = ["resultados das atividades execultadas","PluginTeste/deliveryprocesses/resultados_das_atividades_execultadas_C17F8499.html"];
+contentPage.processPage.elementUrls["_tzu04Xl4Eei9L5hnL9Zfog"] = ["Lider de teste","PluginTeste/deliveryprocesses/lider_de_teste_F18FF5DC.html"];
+contentPage.processPage.elementUrls["_PztyU3mCEei9L5hnL9Zfog"] = ["gerente de teste","PluginTeste/deliveryprocesses/gerente_de_teste_9863E8B2.html"];
+contentPage.processPage.elementUrls["_h-BxGHiaEeiJ7dt36irmsg"] = ["definir ferramentas","PluginTeste/deliveryprocesses/definir_ferramentas_DB665D22.html"];
+contentPage.processPage.elementUrls["_qDg1IXibEeiJ7dt36irmsg"] = ["criterios de validacao","PluginTeste/deliveryprocesses/ll_1597E913.html"];
+contentPage.processPage.elementUrls["_tqO5gHiaEeiJ7dt36irmsg"] = ["selecionar produtos para verficacao","PluginTeste/deliveryprocesses/selecionar_produtos_para_verficacao_428E40A.html"];
+contentPage.processPage.elementUrls["_h-BxGniaEeiJ7dt36irmsg"] = ["definir estrategia de verificacao","PluginTeste/deliveryprocesses/definir_estrategia_de_verificacao_D49D5148.html"];
+contentPage.processPage.elementUrls["_h-BxF3iaEeiJ7dt36irmsg"] = ["definir estrategia de verificacao","PluginTeste/deliveryprocesses/definir_estrategia_de_verificacao_78E544EE.html"];
+contentPage.processPage.elementUrls["_PztyV3mCEei9L5hnL9Zfog"] = ["criterios estabelecidos para selecao dos produtos de validacao","PluginTeste/deliveryprocesses/criterios_estabelecidos_para_selecao_dos_produtos_de_validacao_5CF5CAD1.html"];
+contentPage.processPage.elementUrls["_JNzt1nicEeiJ7dt36irmsg"] = ["registro do resultados das avaliacoes","PluginTeste/deliveryprocesses/registro_do_resultados_das_avaliacoes_F493DBE3.html"];
+contentPage.processPage.elementUrls["_PztyUHmCEei9L5hnL9Zfog"] = ["criterios de selecao","PluginTeste/deliveryprocesses/criterios_de_selecao_36531EC7.html"];
+contentPage.processPage.elementUrls["_7Cq6S3iaEeiJ7dt36irmsg"] = ["analise de laudos de verificacao","PluginTeste/deliveryprocesses/analise_de_laudos_de_verificacao_4AA348D7.html"];
+contentPage.processPage.elementUrls["_ty68knl4Eei9L5hnL9Zfog"] = ["Lider de teste","PluginTeste/deliveryprocesses/lider_de_teste_7B66F5C1.html"];
+contentPage.processPage.elementUrls["_PztyUnmCEei9L5hnL9Zfog"] = ["selecionar segundo os criterios","PluginTeste/deliveryprocesses/selecionar_segundo_os_criterios_2F8A12ED.html"];
+contentPage.processPage.elementUrls["_PztyXXmCEei9L5hnL9Zfog"] = ["criterios definidos para selecao","PluginTeste/deliveryprocesses/criterios_definidos_para_selecao_8EA6A534.html"];
+contentPage.processPage.elementUrls["_tz-sgXl4Eei9L5hnL9Zfog"] = ["analista de teste","PluginTeste/deliveryprocesses/analista_de_teste_C8B34CD4.html"];
+contentPage.processPage.elementUrls["_EXmM13icEeiJ7dt36irmsg"] = ["entrar em contado com os clientes/representantes","PluginTeste/deliveryprocesses/entrar_em_contado_com_os_clientesrepresentantes_229DDC5D.html"];
+contentPage.processPage.elementUrls["_EXmM0nicEeiJ7dt36irmsg"] = ["resultado final da analise","PluginTeste/deliveryprocesses/resultado_final_da_analise_F5322479.html"];
+contentPage.processPage.elementUrls["_tqO5hXiaEeiJ7dt36irmsg"] = ["identificação dos produtos para verificaçao","PluginTeste/deliveryprocesses/identificação dos produtos para verificaçao_D358A639.html"];
+contentPage.processPage.elementUrls["_t1LmYXl4Eei9L5hnL9Zfog"] = ["analista de teste","PluginTeste/deliveryprocesses/analista_de_teste_ABB59854.html"];
+contentPage.processPage.elementUrls["_qDg1EXibEeiJ7dt36irmsg"] = ["Cronograma de atividades","PluginTeste/deliveryprocesses/cronograma_de_atividades_3506097.html"];
+contentPage.processPage.elementUrls["_RomngXY5EeigrY4ezy1uYw"] = ["ciclo","PluginTeste/deliveryprocesses/ciclo_1A434B01.html"];
+contentPage.processPage.elementUrls["_EXmM03icEeiJ7dt36irmsg"] = ["resultados das atividades execultadas","PluginTeste/deliveryprocesses/resultados_das_atividades_execultadas_5E0BFA3E.html"];
+contentPage.processPage.elementUrls["_XKC0qHibEeiJ7dt36irmsg"] = ["verificar recursos","PluginTeste/deliveryprocesses/verificar_recursos_967853BE.html"];
+contentPage.processPage.elementUrls["_EXmM3XicEeiJ7dt36irmsg"] = ["relatorio de testes","PluginTeste/deliveryprocesses/relatorio_de_testes_544EB6C0.html"];
+contentPage.processPage.elementUrls["_XKC0pnibEeiJ7dt36irmsg"] = ["resultado das metricas para verificar criterios atendidos","PluginTeste/deliveryprocesses/resultado_das_metricas_para_verificar_criterios_atendidos_CB1D65C5.html"];
+contentPage.processPage.elementUrls["_7Cq6TXiaEeiJ7dt36irmsg"] = ["relatorio de testes","PluginTeste/deliveryprocesses/relatorio_de_testes_B7C2411B.html"];
+contentPage.processPage.elementUrls["_7Cq6R3iaEeiJ7dt36irmsg"] = ["entrar em contado com os clientes/representantes","PluginTeste/deliveryprocesses/entrar_em_contado_com_os_clientesrepresentantes_861166B8.html"];
+contentPage.processPage.elementUrls["_7Cq6QniaEeiJ7dt36irmsg"] = ["resultado final da analise","PluginTeste/deliveryprocesses/resultado_final_da_analise_58A5AED4.html"];
+contentPage.processPage.elementUrls["_PztyVXmCEei9L5hnL9Zfog"] = ["definicao dos criterios de selecao dos produtos.","PluginTeste/deliveryprocesses/definicao_dos_criterios_de_selecao_dos_produtos._1_582E0F6.html"];
+contentPage.processPage.elementUrls["_t0aKUXl4Eei9L5hnL9Zfog"] = ["Lider de teste","PluginTeste/deliveryprocesses/lider_de_teste_3C7AB480.html"];
+contentPage.processPage.elementUrls["_kvcTUHibEeiJ7dt36irmsg"] = ["atividades de verifacao","PluginTeste/deliveryprocesses/atividades_de_verifacao_105239D6.html"];
+contentPage.processPage.elementUrls["_EXmM0HicEeiJ7dt36irmsg"] = ["analise dos resultados","PluginTeste/deliveryprocesses/analise_dos_resultados_FBFB3053.html"];
+contentPage.processPage.elementUrls["_EXmM1XicEeiJ7dt36irmsg"] = ["resultado na analise","PluginTeste/deliveryprocesses/resultado_na_analise_CB2AF282.html"];
+contentPage.processPage.elementUrls["_h-BxE3iaEeiJ7dt36irmsg"] = ["revisao documentada por pares de teste","PluginTeste/deliveryprocesses/revisao_documentada_por_pares_de_teste_B45362CF.html"];
+contentPage.processPage.elementUrls["_7Cq6QXiaEeiJ7dt36irmsg"] = ["disponibilizacao ao cliente ","PluginTeste/deliveryprocesses/disponibilizacao_ao_cliente_6A0C9ABE.html"];
+contentPage.processPage.elementUrls["_JNzt3HicEeiJ7dt36irmsg"] = ["organizar a realizacao dos testes","PluginTeste/deliveryprocesses/organizar_a_realizacao_dos_testes_8480ABFB.html"];
+contentPage.processPage.elementUrls["_qDg1FHibEeiJ7dt36irmsg"] = ["Definicao do conograma","PluginTeste/deliveryprocesses/definicao_do_conograma_BD4462A6.html"];
+contentPage.processPage.elementUrls["_t1hkoXl4Eei9L5hnL9Zfog"] = ["analista de teste","PluginTeste/deliveryprocesses/analista_de_teste_4A9DB5E0.html"];
+contentPage.processPage.elementUrls["_JNzt0XicEeiJ7dt36irmsg"] = ["execucao","PluginTeste/deliveryprocesses/execucao_4168E5AE.html"];
+contentPage.processPage.elementUrls["_PztyWXmCEei9L5hnL9Zfog"] = ["lista de produtos validados","PluginTeste/deliveryprocesses/lista_de_produtos_validados_CA14C315.html"];
+contentPage.processPage.elementUrls["_0AvIkXiaEeiJ7dt36irmsg"] = ["analise de resultados da vericacao","PluginTeste/deliveryprocesses/analise_de_resultados_da_vericacao_63D1FDB7.html"];
+contentPage.processPage.elementUrls["_qDg1EnibEeiJ7dt36irmsg"] = ["Prototipos para validacao criados","PluginTeste/deliveryprocesses/prototipos_para_validacao_criados_F1E974AD.html"];
+contentPage.processPage.elementUrls["_F3OMgXicEeiJ7dt36irmsg"] = ["execucao da avaliacao","PluginTeste/deliveryprocesses/execucao da avaliacao_D163C4E4.html"];
+contentPage.processPage.elementUrls["_XJ_KQHibEeiJ7dt36irmsg"] = ["Denfinir criterios","PluginTeste/deliveryprocesses/denfinir_criterios_FE4EDC1C.html"];
+contentPage.processPage.elementUrls["_XKC0oHibEeiJ7dt36irmsg"] = ["definicao dos criterios","PluginTeste/deliveryprocesses/definicao_dos_criterios_D548F80.html"];
+contentPage.processPage.elementUrls["_qDg1CnibEeiJ7dt36irmsg"] = ["estrategias de validacao","PluginTeste/deliveryprocesses/jj_68C5B06F.html"];
+contentPage.processPage.elementUrls["_JNzt03icEeiJ7dt36irmsg"] = ["projeto de caso de teste","PluginTeste/deliveryprocesses/projeto_de_caso_de_teste_98DBCF89.html"];
+contentPage.processPage.elementUrls["_tqO5g3iaEeiJ7dt36irmsg"] = ["produtos verificados","PluginTeste/deliveryprocesses/produtos_verificados_6639ADF5.html"];
+contentPage.processPage.elementUrls["_qDg1IHibEeiJ7dt36irmsg"] = ["resultado dos criterios ","PluginTeste/deliveryprocesses/resultado_dos_criterios__AFA0903.html"];
+contentPage.processPage.elementUrls["_qDg1FnibEeiJ7dt36irmsg"] = ["Planejamento do que sera feito","PluginTeste/deliveryprocesses/planejamento_do_que_sera_feito_B67B56CC.html"];
+contentPage.processPage.elementUrls["_PztyX3mCEei9L5hnL9Zfog"] = ["selecao dos produtos pelo criterio","PluginTeste/deliveryprocesses/selecao_dos_produtos_pelo_criterio_E6198F0F.html"];
+contentPage.processPage.elementUrls["_qDg1FXibEeiJ7dt36irmsg"] = ["Criar Plano de projeto","PluginTeste/deliveryprocesses/criar_plano_de_projeto_C7E242B6.html"];
+contentPage.processPage.elementUrls["_kvc6ZnibEeiJ7dt36irmsg"] = ["resultado da revisao","PluginTeste/deliveryprocesses/resultado_da_revisao_C66B23F9.html"];
+contentPage.processPage.elementUrls["_qDg1HHibEeiJ7dt36irmsg"] = ["resultado das metricas para verificar criterios atendidos","PluginTeste/deliveryprocesses/resultado_das_metricas_para_verificar_criterios_atendidos_466826E4.html"];
+contentPage.processPage.elementUrls["_tqO5gXiaEeiJ7dt36irmsg"] = ["Produtos para serem analidados que serao produzidos ao longo do projeto","PluginTeste/deliveryprocesses/produtos_para_serem_analidados_que_serao_produzidos_ao_longo_do__EC6C41A.html"];
+contentPage.processPage.elementUrls["_tqIy43iaEeiJ7dt36irmsg"] = ["selecao dos produtos para serem verificados ","PluginTeste/deliveryprocesses/selecao_dos_produtos_para_serem_verificados__70A092D2.html"];
+contentPage.processPage.elementUrls["_7Cq6SXiaEeiJ7dt36irmsg"] = ["resposta do cliente sobre o produto","PluginTeste/deliveryprocesses/resposta_do_cliente_sobre_o_produto_F3305EFC.html"];
+contentPage.processPage.elementUrls["_PztyW3mCEei9L5hnL9Zfog"] = ["Lista com os produtos mais validados","PluginTeste/deliveryprocesses/lista_com_os_produtos_mais_validados_2187ACF0.html"];
+contentPage.processPage.elementUrls["_qDg1G3ibEeiJ7dt36irmsg"] = ["estabelecer metricas","PluginTeste/deliveryprocesses/estabelecer_metricas_E3E70EB0.html"];
+contentPage.processPage.elementUrls["_qDg1C3ibEeiJ7dt36irmsg"] = ["Criar prototipos","PluginTeste/deliveryprocesses/criar_prototipos_D19F8634.html"];
+contentPage.processPage.elementUrls["_7Cq6RXiaEeiJ7dt36irmsg"] = ["resultado na analise","PluginTeste/deliveryprocesses/resultado_na_analise_2E9E7CDD.html"];
+contentPage.processPage.elementUrls["_qDg1GHibEeiJ7dt36irmsg"] = ["Plano de projeto criado","PluginTeste/deliveryprocesses/plano_de_projeto_criado_81D644C5.html"];
+contentPage.processPage.elementUrls["_t1PQwXl4Eei9L5hnL9Zfog"] = ["Arquiteto de teste","PluginTeste/deliveryprocesses/arquiteto_de_teste_D4B2C056.html"];
+contentPage.processPage.elementUrls["_qDg1F3ibEeiJ7dt36irmsg"] = ["recursos","PluginTeste/deliveryprocesses/recursos_1F552C91.html"];
+contentPage.processPage.elementUrls["_tqIy4XiaEeiJ7dt36irmsg"] = ["Produtos de trabalho analisados","PluginTeste/deliveryprocesses/produtos_de_trabalho_analisados_192DA8F7.html"];
+contentPage.processPage.elementUrls["_kvcTUnibEeiJ7dt36irmsg"] = ["revisao por pares e testes","PluginTeste/deliveryprocesses/revisao_por_pares_e_testes_9892DFC.html"];
+contentPage.processPage.elementUrls["_qDg1DHibEeiJ7dt36irmsg"] = ["Planejamento do conograma das atividades ","PluginTeste/deliveryprocesses/planejamento_do_conograma_das_atividades__34209E68.html"];
+contentPage.processPage.elementUrls["_qDg1DXibEeiJ7dt36irmsg"] = ["Validar por prototipacao","PluginTeste/deliveryprocesses/validar_por_prototipacao_3EBE7E78.html"];
+contentPage.processPage.elementUrls["_qDg1D3ibEeiJ7dt36irmsg"] = ["Definicao do planejamento ","PluginTeste/deliveryprocesses/definicao_do_planejamento__96316853.html"];
+contentPage.processPage.elementUrls["_t0-LAXl4Eei9L5hnL9Zfog"] = ["Lider de teste","PluginTeste/deliveryprocesses/lider_de_teste_A1DFE089.html"];
+contentPage.processPage.elementUrls["_tzZdsXl4Eei9L5hnL9Zfog"] = ["analista de teste","PluginTeste/deliveryprocesses/analista_de_teste_AA00DAAC.html"];
+contentPage.processPage.elementUrls["_qDg1E3ibEeiJ7dt36irmsg"] = ["Recursos que serao necesarios para a execucao do processo","PluginTeste/deliveryprocesses/recursos_que_serao_necesarios_para_a_execucao_do_processo_5AC34A72.html"];
+contentPage.processPage.elementUrls["_JNzt1HicEeiJ7dt36irmsg"] = ["resultado da execucao","PluginTeste/deliveryprocesses/resultado_da_execucao_FB5CE7BD.html"];
+contentPage.processPage.elementUrls["_EXmM0XicEeiJ7dt36irmsg"] = ["disponibilizacao ao cliente ","PluginTeste/deliveryprocesses/disponibilizacao_ao_cliente__6991063.html"];
+contentPage.processPage.elementUrls["_EXmM2XicEeiJ7dt36irmsg"] = ["resposta do cliente sobre o produto","PluginTeste/deliveryprocesses/resposta_do_cliente_sobre_o_produto_8FBCD4A1.html"];
+contentPage.processPage.elementUrls["_XKC0pHibEeiJ7dt36irmsg"] = ["estabelecer metricas","PluginTeste/deliveryprocesses/estabelecer_metricas_D1E6719F.html"];
+contentPage.processPage.elementUrls["_JNzt0nicEeiJ7dt36irmsg"] = ["planejamento","PluginTeste/deliveryprocesses/planejamento_3001F9C4.html"];
+contentPage.processPage.elementUrls["_kvc6YHibEeiJ7dt36irmsg"] = ["Planejamento criado","PluginTeste/deliveryprocesses/planejamento_criado_8A24DB4.html"];
+contentPage.processPage.elementUrls["_nCIusXibEeiJ7dt36irmsg"] = ["Validacao","PluginTeste/deliveryprocesses/Validacao_31A7B4ED.html"];
+contentPage.processPage.elementUrls["_EXmM33icEeiJ7dt36irmsg"] = ["resultados do protudo","PluginTeste/deliveryprocesses/resultados_do_protudo_ABC1A09B.html"];
+contentPage.processPage.elementUrls["_qDg1EHibEeiJ7dt36irmsg"] = ["planejamento espefico ","PluginTeste/deliveryprocesses/planejamento_espefico__F8B28087.html"];
+contentPage.processPage.elementUrls["_qDg1HnibEeiJ7dt36irmsg"] = ["Denfinir criterios","PluginTeste/deliveryprocesses/denfinir_criterios_3F9F1B0A.html"];
+contentPage.processPage.elementUrls["_qDg1GXibEeiJ7dt36irmsg"] = ["recursos definidos","PluginTeste/deliveryprocesses/recursos_definidos_8C7424D5.html"];
+contentPage.processPage.elementUrls["_h-BxGXiaEeiJ7dt36irmsg"] = ["revisao por pares e testes","PluginTeste/deliveryprocesses/revisao_por_pares_e_testes_E6043D32.html"];
+contentPage.processPage.elementUrls["_qDg1H3ibEeiJ7dt36irmsg"] = ["metricas","PluginTeste/deliveryprocesses/metricas_A878F0CF.html"];
+contentPage.processPage.elementUrls["_XKC0qnibEeiJ7dt36irmsg"] = ["todos os recursos necessarios para a execulcao da atividade","PluginTeste/deliveryprocesses/todos_os_recursos_necessarios_para_a_execulcao_da_atividade_8FAF47E4.html"];
+contentPage.processPage.elementUrls["_h-BxFHiaEeiJ7dt36irmsg"] = ["Estrategia de verificacao definida","PluginTeste/deliveryprocesses/estrategia_de_verificacao_definida_16D47B03.html"];
+contentPage.processPage.elementUrls["_h-BxFniaEeiJ7dt36irmsg"] = ["definicao das ferramentas de apoio","PluginTeste/deliveryprocesses/definicao_das_ferramentas_de_apoio_100B6F29.html"];
+contentPage.processPage.elementUrls["_tqIy5HiaEeiJ7dt36irmsg"] = ["Estrategia de selecao","PluginTeste/deliveryprocesses/estrategia_de_selecao_D321AB06.html"];
+contentPage.processPage.elementUrls["_TjLboXibEeiJ7dt36irmsg"] = ["criterios de vericacao","PluginTeste/deliveryprocesses/criterios-eVericacao_D458E0BC.html"];
+contentPage.processPage.elementUrls["_XJ_KQnibEeiJ7dt36irmsg"] = ["preparacao do ambiente","PluginTeste/deliveryprocesses/preparacao_do_ambiente_F785D042.html"];
+contentPage.processPage.elementUrls["_XKC0onibEeiJ7dt36irmsg"] = ["resultado dos criterios ","PluginTeste/deliveryprocesses/resultado_dos_criterios__68B83A6.html"];
+contentPage.processPage.elementUrls["_JNzt0HicEeiJ7dt36irmsg"] = ["avalidacao dos resultados","PluginTeste/deliveryprocesses/avalidacao_dos_resultados_36CB059E.html"];
